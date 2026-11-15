@@ -1,0 +1,5 @@
+station,year,no2_ugm3_annual_mean,no2_ugm3_days_above_who_daily,pm25_ugm3_annual_mean,pm25_ugm3_days_above_who_daily
+STATION_BACKGROUND,2023,15.7,21,10.1,61
+STATION_BACKGROUND,2024,15.8,26,11.0,76
+STATION_TRAFFIC,2023,28.5,205,11.6,85
+STATION_TRAFFIC,2024,28.7,215,13.4,121
