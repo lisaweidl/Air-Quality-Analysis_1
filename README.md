@@ -1,7 +1,7 @@
 # Urban Air Quality Analysis: NO₂ & PM2.5
 
 Analysis of hourly nitrogen dioxide (NO₂) and fine particulate matter (PM2.5)
-concentrations at two urban monitoring stations – one **traffic** site and one
+concentrations at two random urban monitoring stations – one **traffic** site and one
 **urban background** site – for 2023–2024, including meteorological drivers and a
 comparison against the **WHO Air Quality Guidelines (2021)**.
 
