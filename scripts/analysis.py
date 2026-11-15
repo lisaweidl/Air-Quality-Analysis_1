@@ -1,9 +1,4 @@
-"""Urban air quality analysis: NO2 and PM2.5 at a traffic and a background station.
 
-Reads data/raw/air_quality_hourly.csv, cleans it, compares stations, checks
-WHO 2021 guideline exceedances and looks at the influence of wind and
-temperature. Writes figures to figures/ and summary tables to data/processed/.
-"""
 from pathlib import Path
 
 import matplotlib.pyplot as plt
